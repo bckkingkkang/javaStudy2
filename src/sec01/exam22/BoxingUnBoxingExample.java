@@ -1,5 +1,6 @@
 // 기본 타입의 값을 박싱하고 언박싱하기
 package sec01.exam22;
+import java.lang.*;
 
 public class BoxingUnBoxingExample {
 	public static void main(String[] args) {
