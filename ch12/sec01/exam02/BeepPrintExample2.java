@@ -1,7 +1,7 @@
 // 메인 스레드와 작업 스레드가 동시에 실행 
 package sec01.exam02;
 
-public class BeepPrintExample {
+public class BeepPrintExample2 {
 	public static void main(String[] args) {
 		
 		Runnable beepTask = new BeepTask();
